@@ -1,0 +1,211 @@
+১. প্রোগ্রামিং ভাষা ও ফ্রেমওয়ার্ক (Programming Languages & Frameworks)
+
+a. C#
+C# হলো Microsoft-এর তৈরি একটি আধুনিক প্রোগ্রামিং ভাষা।
+এটি মূলত ডেস্কটপ, ওয়েব, মোবাইল এবং গেম অ্যাপ্লিকেশন তৈরিতে ব্যবহৃত হয়।
+
+b. HTML
+HTML হলো ওয়েব পেজের কাঠামো (Structure) তৈরির জন্য ব্যবহৃত স্ট্যান্ডার্ড ভাষা।
+এটি শিরোনাম, অনুচ্ছেদ, ছবি এবং লিংকের মতো বিভিন্ন উপাদান নির্ধারণ করে।
+
+c. CSS
+CSS ওয়েব পেজের ডিজাইন ও স্টাইল নির্ধারণ করতে ব্যবহৃত হয়।
+এটি রং, ফন্ট, লেআউট এবং ওয়েবসাইটের সামগ্রিক চেহারা নিয়ন্ত্রণ করে।
+
+d. JavaScript
+JavaScript ওয়েবসাইটে ইন্টারঅ্যাকটিভ ও ডায়নামিক ফিচার যোগ করে।
+এটি ব্যবহারকারীদের বাটন, ফর্ম, অ্যানিমেশনসহ বিভিন্ন উপাদানের সাথে ইন্টারঅ্যাক্ট করতে সাহায্য করে।
+
+e. SQL
+SQL হলো ডেটাবেস পরিচালনা ও কুয়েরি করার জন্য ব্যবহৃত একটি ভাষা।
+এটি দক্ষতার সাথে ডেটা সংরক্ষণ, অনুসন্ধান, হালনাগাদ এবং মুছে ফেলতে সাহায্য করে।
+
+f. .NET
+.NET হলো Microsoft-এর তৈরি একটি সফটওয়্যার ডেভেলপমেন্ট ফ্রেমওয়ার্ক।
+এটি ওয়েব, ডেস্কটপ, মোবাইল এবং ক্লাউড অ্যাপ্লিকেশন তৈরিতে ব্যবহৃত হয়।
+
+g. Next.js
+Next.js হলো React-এর একটি ফ্রেমওয়ার্ক, যা দ্রুত ও আধুনিক ওয়েব অ্যাপ্লিকেশন তৈরিতে ব্যবহৃত হয়।
+এতে Server-Side Rendering, Routing এবং উন্নত Performance-এর মতো সুবিধা রয়েছে।
+
+২. অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং (Object-Oriented Programming)
+
+a. Classes & Objects
+Class হলো একটি নকশা (Blueprint), যার ভিত্তিতে Object তৈরি করা হয়।
+Object হলো সেই Class-এর একটি বাস্তব উদাহরণ (Instance), যা ডেটা ও কার্যক্রম সংগঠিত করতে সাহায্য করে।
+
+b. Encapsulation
+Encapsulation হলো একটি Class-এর মধ্যে ডেটা এবং মেথডকে একসাথে রাখা।
+এটি Properties বা Methods-এর মাধ্যমে ডেটার নিরাপত্তা নিশ্চিত করে এবং সরাসরি অ্যাক্সেস নিয়ন্ত্রণ করে।
+
+c. Inheritance
+Inheritance-এর মাধ্যমে একটি Class অন্য একটি Class-এর বৈশিষ্ট্য ও মেথড উত্তরাধিকারসূত্রে গ্রহণ করতে পারে।
+এটি কোড পুনঃব্যবহার সহজ করে এবং সফটওয়্যার রক্ষণাবেক্ষণ সহজ করে।
+
+d. Polymorphism
+Polymorphism-এর মাধ্যমে একই Method বিভিন্ন Object-এর ক্ষেত্রে ভিন্নভাবে কাজ করতে পারে।
+এটি কোডকে আরও নমনীয় এবং সম্প্রসারণযোগ্য করে তোলে।
+
+e. Interfaces
+Interface একটি নির্দিষ্ট Method-এর তালিকা নির্ধারণ করে, যা একটি Class-কে অবশ্যই বাস্তবায়ন করতে হয়।
+এটি কোডকে সুশৃঙ্খল, নমনীয় এবং পুনঃব্যবহারযোগ্য করে।
+
+৩. ডেটাবেস (Database)
+
+a. DBMS Fundamentals
+DBMS (Database Management System) হলো এমন একটি সফটওয়্যার যা ডেটা তৈরি, সংরক্ষণ এবং পরিচালনা করতে ব্যবহৃত হয়।
+এটি তথ্যকে নিরাপদভাবে সংগঠিত করে এবং সহজে ব্যবহারযোগ্য করে তোলে।
+
+b. Relational Databases
+Relational Database টেবিলের (Rows ও Columns) মাধ্যমে ডেটা সংরক্ষণ করে।
+টেবিলগুলোর মধ্যে সম্পর্ক (Relationship) তৈরি করে তথ্যকে সুশৃঙ্খল ও সামঞ্জস্যপূর্ণ রাখা হয়।
+
+c. PostgreSQL
+PostgreSQL একটি শক্তিশালী এবং ওপেন-সোর্স Relational Database Management System।
+এটি নিরাপদ, নির্ভরযোগ্য এবং উচ্চ কর্মক্ষমতাসম্পন্ন অ্যাপ্লিকেশন তৈরিতে ব্যাপকভাবে ব্যবহৃত হয়।
+
+d. SQL Queries
+SQL Query হলো এমন কিছু কমান্ড, যার মাধ্যমে ডেটা খোঁজা, যোগ করা, পরিবর্তন করা এবং মুছে ফেলা হয়।
+এটি ডেটাবেসের তথ্য পরিচালনা করতে সাহায্য করে।
+
+e. Relationships
+Relationship Primary Key এবং Foreign Key ব্যবহার করে একাধিক টেবিলকে সংযুক্ত করে।
+এটি ডেটার সঠিকতা বজায় রাখে এবং অপ্রয়োজনীয় পুনরাবৃত্তি কমায়।
+
+f. Indexing
+Indexing ডেটা অনুসন্ধানের গতি বাড়িয়ে ডেটাবেসের পারফরম্যান্স উন্নত করে।
+এটি বড় টেবিল থেকে দ্রুত তথ্য খুঁজে পেতে সাহায্য করে।
+
+g. Transactions
+Transaction হলো একাধিক ডেটাবেস অপারেশনকে একটি একক ইউনিট হিসেবে সম্পন্ন করার প্রক্রিয়া।
+কোনো ত্রুটি ঘটলেও এটি ডেটার সঠিকতা ও সামঞ্জস্য বজায় রাখে।
+
+৪. .NET ও লাইব্রেরি (.NET & Libraries)
+
+a. .NET Web API
+.NET Web API হলো .NET ব্যবহার করে RESTful API তৈরির একটি ফ্রেমওয়ার্ক।
+এটি HTTP-এর মাধ্যমে বিভিন্ন অ্যাপ্লিকেশনের মধ্যে তথ্য আদান-প্রদান করতে সাহায্য করে।
+
+b. Entity Framework Core
+Entity Framework Core হলো .NET-এর একটি Object-Relational Mapper (ORM)।
+এটি SQL-এর পরিবর্তে C# Object ব্যবহার করে সহজে ডেটাবেস পরিচালনার সুযোগ দেয়।
+
+c. FluentValidation
+FluentValidation হলো .NET-এর একটি লাইব্রেরি, যা ব্যবহারকারীর ইনপুট এবং Model Data যাচাই করতে ব্যবহৃত হয়।
+এটি পরিষ্কার ও পুনঃব্যবহারযোগ্য Validation Rule লিখতে সাহায্য করে।
+
+d. SignalR
+SignalR হলো .NET-এর একটি লাইব্রেরি, যা Real-Time Communication যুক্ত করতে ব্যবহৃত হয়।
+এটি Live Chat, Notification এবং Instant Update-এর মতো সুবিধা প্রদান করে।
+
+e. Serilog
+Serilog হলো .NET অ্যাপ্লিকেশনের জন্য একটি Logging Library।
+এটি অ্যাপ্লিকেশনের বিভিন্ন Event ও Error সংরক্ষণ করে, যা Monitoring ও Debugging-এ সহায়ক।
+
+f. Hangfire
+Hangfire হলো Background Job Processing Library।
+এটি নির্ধারিত সময়ে বা ব্যাকগ্রাউন্ডে স্বয়ংক্রিয়ভাবে কাজ সম্পন্ন করতে সাহায্য করে।
+
+g. MassTransit
+MassTransit হলো Message-Based Distributed System তৈরির জন্য .NET Framework।
+এটি Message Queue-এর মাধ্যমে বিভিন্ন Service-এর মধ্যে নির্ভরযোগ্য যোগাযোগ নিশ্চিত করে।
+
+৫. Authentication ও Security
+
+a. Authentication
+Authentication হলো ব্যবহারকারীর পরিচয় যাচাই করার প্রক্রিয়া।
+এটি নিশ্চিত করে যে শুধুমাত্র বৈধ ব্যবহারকারীরাই সিস্টেমে প্রবেশ করতে পারে।
+
+b. Authorization
+Authorization নির্ধারণ করে একজন যাচাইকৃত ব্যবহারকারী কোন কোন কাজ করতে পারবেন।
+এটি Role বা Permission-এর ভিত্তিতে বিভিন্ন রিসোর্সে প্রবেশাধিকার নিয়ন্ত্রণ করে।
+
+c. JWT Authentication
+JWT (JSON Web Token) হলো Token-ভিত্তিক একটি নিরাপদ Authentication পদ্ধতি।
+এটি সার্ভারে Session সংরক্ষণ ছাড়াই ব্যবহারকারীকে লগইন অবস্থায় রাখতে সাহায্য করে।
+
+d. Role-Based Authorization
+Role-Based Authorization ব্যবহারকারীর নির্ধারিত Role (যেমন Admin বা User)-এর ভিত্তিতে প্রবেশাধিকার প্রদান করে।
+এটি নিশ্চিত করে যে প্রত্যেক ব্যবহারকারী শুধুমাত্র তার অনুমোদিত কাজগুলোই করতে পারে।
+
+৬. Messaging ও Caching (Advanced)
+
+a. RabbitMQ
+RabbitMQ হলো একটি Message Broker, যা বিভিন্ন অ্যাপ্লিকেশনের মধ্যে Message আদান-প্রদান সহজ করে।
+এটি নির্ভরযোগ্য এবং Asynchronous Communication নিশ্চিত করে।
+
+b. Redis
+Redis হলো একটি দ্রুতগতির In-Memory Data Store, যা Caching এবং Real-Time Application-এ ব্যবহৃত হয়।
+এটি Database-এর উপর চাপ কমিয়ে ডেটা অ্যাক্সেসের গতি বাড়ায়।
+
+৭. Software Architecture ও Design
+
+a. SOLID Principles
+SOLID হলো পরিষ্কার, রক্ষণাবেক্ষণযোগ্য এবং উন্নতমানের কোড লেখার জন্য পাঁচটি ডিজাইন নীতির সমষ্টি।
+এটি নমনীয়, স্কেলযোগ্য এবং সহজে টেস্টযোগ্য সফটওয়্যার তৈরি করতে সাহায্য করে।
+
+b. CQRS
+CQRS (Command Query Responsibility Segregation) ডেটা পড়া (Read) এবং লেখা (Write) আলাদা করে।
+এটি অ্যাপ্লিকেশনের পারফরম্যান্স, স্কেলেবিলিটি এবং কোডের গঠন উন্নত করে।
+
+c. Clean Architecture
+Clean Architecture কোডকে বিভিন্ন স্বাধীন স্তরে (Layer) ভাগ করে, যেখানে প্রতিটি স্তরের নির্দিষ্ট দায়িত্ব থাকে।
+এটি সফটওয়্যারকে সহজে রক্ষণাবেক্ষণ, টেস্ট এবং সম্প্রসারণযোগ্য করে।
+
+d. Repository Pattern
+Repository Pattern ডেটা অ্যাক্সেস লজিককে Business Logic থেকে আলাদা রাখে।
+এটি ডেটাবেসের সাথে পরিষ্কার ও সহজভাবে কাজ করার সুযোগ দেয়।
+
+e. Design Best Practices
+Design Best Practices হলো উন্নতমানের সফটওয়্যার তৈরির পরীক্ষিত নীতিমালা।
+এগুলো কোডের পাঠযোগ্যতা, পারফরম্যান্স, রক্ষণাবেক্ষণযোগ্যতা এবং স্কেলেবিলিটি বৃদ্ধি করে।
+
+৮. DevOps ও Deployment
+
+a. Git
+Git হলো একটি Version Control System, যা সোর্স কোডের পরিবর্তনগুলো ট্র্যাক করে।
+এটি ডেভেলপারদের একসাথে কাজ করা, কোডের ইতিহাস সংরক্ষণ এবং প্রয়োজনে আগের সংস্করণে ফিরে যেতে সাহায্য করে।
+
+b. GitHub
+GitHub হলো Git Repository সংরক্ষণ ও শেয়ার করার জন্য একটি Cloud-Based Platform।
+এটি Pull Request, Issues এবং Code Review-এর মাধ্যমে দলগত কাজ সহজ করে।
+
+c. Docker
+Docker হলো এমন একটি প্ল্যাটফর্ম, যা অ্যাপ্লিকেশন ও এর নির্ভরতাগুলোকে Container-এ প্যাকেজ করে।
+এটি বিভিন্ন পরিবেশে একইভাবে অ্যাপ্লিকেশন চালাতে সাহায্য করে।
+
+d. CI/CD
+CI/CD (Continuous Integration & Continuous Deployment) হলো Build, Test এবং Deployment প্রক্রিয়াকে স্বয়ংক্রিয় করার পদ্ধতি।
+এটি দ্রুত এবং নির্ভরযোগ্যভাবে সফটওয়্যার প্রকাশ করতে সাহায্য করে।
+
+৯. Hosting ও Cloud
+
+a. Render
+Render হলো একটি Cloud Platform, যা Web Application এবং API Deploy করতে ব্যবহৃত হয়।
+এটি Automatic Deployment, Hosting এবং Scaling-এর সুবিধা প্রদান করে।
+
+b. Vercel
+Vercel হলো আধুনিক Web Application, বিশেষ করে Next.js Project Deploy করার একটি Cloud Platform।
+এটি দ্রুত Deployment, Global Performance এবং Git থেকে Automatic Update-এর সুবিধা দেয়।
+
+c. Neon Database
+Neon হলো একটি Serverless PostgreSQL Database, যা আধুনিক Cloud Application-এর জন্য তৈরি।
+এটি Automatic Scaling, Database Branching এবং নির্ভরযোগ্য Performance প্রদান করে।
+
+d. Production Configuration
+Production Configuration হলো একটি অ্যাপ্লিকেশনকে বাস্তব ব্যবহারকারীদের জন্য প্রস্তুত করার প্রক্রিয়া।
+এতে Performance Optimization, Security Settings এবং Environment Variables সঠিকভাবে কনফিগার করা হয়।
+
+১০. ডেভেলপারদের জন্য AI (AI for Developers)
+
+a. Prompt Engineering
+Prompt Engineering হলো AI Model-এর জন্য পরিষ্কার, নির্দিষ্ট এবং কার্যকর নির্দেশনা লেখার কৌশল।
+এটি আরও সঠিক, প্রাসঙ্গিক এবং উপযোগী ফলাফল পেতে সাহায্য করে।
+
+b. Using AI for Development
+AI ডেভেলপারদের Coding, Debugging, Testing এবং Documentation তৈরিতে সহায়তা করতে পারে।
+এটি সফটওয়্যার ডেভেলপমেন্টের গতি বাড়ায় এবং কোডের মান উন্নত করে।
+
+c. Increasing Developer Productivity with AI
+AI Tool পুনরাবৃত্তিমূলক কাজগুলো স্বয়ংক্রিয় করে এবং বুদ্ধিমান Coding Assistance প্রদান করে।
+ফলে ডেভেলপাররা আরও দ্রুত কাজ করতে পারেন, সহজে সমস্যা সমাধান করতে পারেন এবং উন্নতমানের সফটওয়্যার তৈরিতে বেশি মনোযোগ দিতে পারেন।
